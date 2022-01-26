@@ -1,0 +1,48 @@
+Nota de transferência entre filiais 
+
+1º Suprimento / retira de produtos
+2º Novo
+3º Usar operação 3 (Transfeência saída)
+4º Tipo de operação (Tranferência)
+5º Flegar os dados de trnasportes
+6º Pegar os dados da nota de origem como: Placa do caminhão - Colocar a placa do caminhão (Cavalo) e não da carreta - A que vem descrita na nota de origem é da
+carreta, sempre verificar
+7º Conferir transportadora e motorista sempre tem que está de acordo com a nota de origem para não gerar carta de correção, ou se houver alguma alteraçao, será avisado
+8º Colocar a nota fiscal de entrada (Nota fiscal de origem) 
+9º Não flegar operação de transbordo
+10º Empresa Origem: Sempre a que está na nota de origem
+11º Armazém Origem: Tem que ser sempre da empresa de origem  Armazem de origem da 14 é 168980
+12º Representande: Quando é operação Aster está sendo Gasolina Importação 170527 - Quando não for Aster, perguntar qual representante
+13º Empresa Destino: Peruntar para qual empresa vai (CPA EMPRESA 2 ARMAZÉM 248 CPA ARMAZENS)nf 
+14º Armazém destino: Sempre perguntar pra onde vai descarregar
+15º Novo: Colocar os dados da nota como: Tipo de produto, Valor, Volume a 20g e Voluma AMB, o resto pode deixar em branco, dar um enter e confirmar na engrenagem 
+16º Anotar o número do lançamento: 
+17º Fechar: Pedido feito... 
+
+18: Gerar Carga em Logistica
+19: Colocar ou o armazém de destino ou origem.
+20º Dar F11 pra gravar e F9 pra validar no F9 abrirá uma tela para confirmar as informações como: Placa, motorista e transportadora, primordial fazer esse crosscheck
+21º Confirmar no F5 Fechar no F12
+22º Carga Feita
+
+23º Faturar 
+24º Botão F5 Processar
+25º Processar - Dar dois cliques em cima do nome do motorista da nota de origem 
+26º Ir na aba de faturamento - Ir na aba de Mensagem - Botão direito e ir em NOVO Colocar o número da nota de origem a a empresa, salvar e clicar em novo novamente
+Verificar na nota de origem se há numeração e cor de lacres, se sim, colocar também 
+27º Salvar e fechar 
+28º Clicar na aba LAUDO - dar 2 cliques na linha, colocoar o produto da nota de origem, descer e pegar o ultimo laudo do mesmo armazém 
+29º Dar um F9 
+30º Ir no NFE - Verificar se a nota foi autorizada pela SEFAZ, salvar como PDF e .XML e enviar no grupo... 
+
+
+
+
+
+
+
+
+
+
+	   
+
